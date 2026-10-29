@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Alin-dev0911/Alin-dev0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ALIN 👋
 
-Here are some ideas to get you started:
+### Fullstack Developer | Frontend Focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer passionate about building modern, responsive, and user-friendly web applications.
+
+I focus on ReactJS and TypeScript for frontend development, with experience building backend services using Node.js and Spring Boot.
+
+### 🛠 Tech Stack
+
+**Frontend:** ReactJS, TypeScript, JavaScript, HTML5, CSS3
+
+**Backend:** Node.js, Java, Spring Boot
+
+**Database:** MongoDB, SQL
+
+**Tools:** Git, GitHub, REST APIs
+
+### 🚀 Featured Projects
+
+I'm currently organizing my selected projects for this GitHub portfolio.
+
+- FCE
+- Woojin
+- Covuakingbay
+- KINGBAY
+- EduLinkTutor
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/Alin-dev0911
+- Portfolio: 
