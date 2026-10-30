@@ -37,14 +37,14 @@ I'm a Fullstack Developer with a strong focus on Frontend Development, particula
 
 ---
 
-<h2 align="center">💻 Development Focus</h2>
+<h2>💻 Development Focus</h2>
 
-<p align="center">
+<p>
   Building modern, responsive, and user-friendly
   web applications.
 </p>
 
-<table align="center">
+<table >
   <tr>
     <td align="center" width="50%">
       <h3>🎨 Frontend Development</h3>
@@ -71,7 +71,7 @@ I'm a Fullstack Developer with a strong focus on Frontend Development, particula
   </tr>
 </table>
 
-<p align="center">
+<p>
   <strong>Clean Code • Responsive Design •
   Fullstack Development</strong>
 </p>
