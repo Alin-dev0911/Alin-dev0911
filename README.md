@@ -13,15 +13,9 @@ I'm a Fullstack Developer with a strong focus on Frontend Development, particula
 
 ---
 
-### 👩‍💻 About Me
-
-I'm a Fullstack Developer with a strong focus on Frontend Development.
-
-- 💻 Frontend development with ReactJS and TypeScript
-- ⚙️ Backend development with Node.js and Spring Boot
-- 🗄️ Database experience with MongoDB and SQL
-- 🎨 Passionate about UI design and interactive web experiences
-
+<div align="center">
+  <img src="./asset/coding.gif" alt="ALIN Coding Animation" width="450" />
+</div>
 ---
 
 ### 🛠️ Tech Stack
