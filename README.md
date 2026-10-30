@@ -46,13 +46,17 @@ I'm a Fullstack Developer with a strong focus on Frontend Development.
 
 ---
 
-### 📊 GitHub Stats
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alin-dev0911&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Alin-dev0911&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+    alt="ALIN GitHub Stats"
+    width="450"
+  />
 </div>
+
 
 ---
 
