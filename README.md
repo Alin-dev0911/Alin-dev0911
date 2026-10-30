@@ -88,9 +88,6 @@ I'm a Fullstack Developer with a strong focus on Frontend Development.
 ---
 
 
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
