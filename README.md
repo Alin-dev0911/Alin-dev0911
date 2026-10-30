@@ -13,11 +13,7 @@ I'm a Fullstack Developer with a strong focus on Frontend Development, particula
 
 ---
 
-<div align="center">
-  <img src="./asset/coding.gif" alt="ALIN Coding Animation" width="100%" />
-</div>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -90,3 +86,10 @@ I'm a Fullstack Developer with a strong focus on Frontend Development, particula
 [GitHub](https://github.com/Alin-dev0911)
 
 </div>
+
+--- 
+
+<div align="center">
+  <img src="./asset/coding.gif" alt="ALIN Coding Animation" width="100%" />
+</div>
+
