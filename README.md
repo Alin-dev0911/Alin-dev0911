@@ -47,15 +47,50 @@ I'm a Fullstack Developer with a strong focus on Frontend Development.
 ---
 
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Alin-dev0911&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
-    alt="ALIN GitHub Stats"
-    width="450"
-  />
-</div>
+---
+
+<h2 align="center">💻 Development Focus</h2>
+
+<p align="center">
+  Building modern, responsive, and user-friendly
+  web applications.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      ReactJS · TypeScript · JavaScript
+      <br/>
+      HTML5 · CSS3
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      Node.js · Java · Spring Boot
+      <br/>
+      REST APIs
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Database</h3>
+      MongoDB · SQL
+    </td>
+    <td align="center">
+      <h3>🚀 Tools & Deployment</h3>
+      Git · GitHub · Vite · Vercel
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>Clean Code • Responsive Design •
+  Fullstack Development</strong>
+</p>
+
+---
+
 
 
 ---
