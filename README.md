@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner.png" alt="ALIN Portfolio Banner" width="100%" />
+  <img src="./asset/banner.png" alt="ALIN Portfolio Banner" width="100%" />
 </p>
 <div align="center">
 
@@ -8,8 +8,7 @@
 
 ### Fullstack Developer | Frontend Focused
 
-Building modern web experiences with clean interfaces and functional backend systems.
-
+I'm a Fullstack Developer with a strong focus on Frontend Development, particularly React.js and TypeScript. I enjoy building responsive, intuitive, and user-friendly web applications, transforming ideas and designs into functional digital experiences. Beyond frontend development, I have experience working with Node.js, Java, Spring Boot, MongoDB, and SQL to support fullstack applications.
 </div>
 
 ---
@@ -29,7 +28,7 @@ I'm a Fullstack Developer with a strong focus on Frontend Development.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,java,spring,mongodb,mysql,git,github,vite,vercel" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,java,spring,mongodb,mysql,git,github,vite,vercel,figma,adobe" />
 
 </div>
 
