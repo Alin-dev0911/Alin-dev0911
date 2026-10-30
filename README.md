@@ -46,10 +46,6 @@ I'm a Fullstack Developer with a strong focus on Frontend Development.
 
 ---
 
-
-
----
-
 <h2 align="center">💻 Development Focus</h2>
 
 <p align="center">
